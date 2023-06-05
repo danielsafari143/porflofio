@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/danielsafari143/porflofio/static/css/main.dc3eb77b.css",
-    "main.js": "/danielsafari143/porflofio/static/js/main.f4957a27.js",
-    "static/media/daniel.png": "/danielsafari143/porflofio/static/media/daniel.7d2d8d3e16d95479014f.png",
-    "static/media/manstanding.png": "/danielsafari143/porflofio/static/media/manstanding.35192d2960250e4e0bea.png",
-    "static/media/projects.png": "/danielsafari143/porflofio/static/media/projects.f01de6eda2034292918a.png",
-    "index.html": "/danielsafari143/porflofio/index.html",
-    "main.dc3eb77b.css.map": "/danielsafari143/porflofio/static/css/main.dc3eb77b.css.map",
-    "main.f4957a27.js.map": "/danielsafari143/porflofio/static/js/main.f4957a27.js.map"
+    "main.css": "/porflofio/static/css/main.dc3eb77b.css",
+    "main.js": "/porflofio/static/js/main.2df48c40.js",
+    "static/media/daniel.png": "/porflofio/static/media/daniel.7d2d8d3e16d95479014f.png",
+    "static/media/manstanding.png": "/porflofio/static/media/manstanding.35192d2960250e4e0bea.png",
+    "static/media/projects.png": "/porflofio/static/media/projects.f01de6eda2034292918a.png",
+    "index.html": "/porflofio/index.html",
+    "main.dc3eb77b.css.map": "/porflofio/static/css/main.dc3eb77b.css.map",
+    "main.2df48c40.js.map": "/porflofio/static/js/main.2df48c40.js.map"
   },
   "entrypoints": [
     "static/css/main.dc3eb77b.css",
-    "static/js/main.f4957a27.js"
+    "static/js/main.2df48c40.js"
   ]
 }
