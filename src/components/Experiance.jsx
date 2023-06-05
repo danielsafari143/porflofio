@@ -1,5 +1,4 @@
 import { Typography } from "@mui/material";
-import TextField from "@mui/material/TextField";
 import { Box } from "@mui/material";
 import projects from '../assets/img/projects.png'
 import{ styles} from './globalStyle'

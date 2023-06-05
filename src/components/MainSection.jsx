@@ -1,4 +1,4 @@
-import { Box, Button, Typography } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import { styles } from "./globalStyle";
 import daniel from '../assets/img/daniel.png';
 import { useWidth } from "./customHooks/useWidth";

@@ -1,12 +1,6 @@
-import { Card } from "@mui/material";
-import CardContent from "@mui/material/CardContent";
-import CardActions from "@mui/material/CardActions";
-import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
 import {styles} from './globalStyle'
 import { Box } from "@mui/material";
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import { useWidth } from "./customHooks/useWidth";
 import { ProjectIcon } from "./global/ProjectIcon";
 
